@@ -1,4 +1,6 @@
-# This is the repository that includes the code, written in Scheme for a class project where I and two other classmates designed a program that analyzed and made possible correlations between different aspects of movies from a movie database consisting of over 45,000 movies and also suggested five movies for a user to watch depending on their input of their other preferred movies
+# Analyzing Movies Over Time: A Data Science Project
+
+This is the repository that includes the code, written in Scheme for a class project where I and two other classmates designed a program that analyzed and made possible correlations between different aspects of movies from a movie database consisting of over 45,000 movies and also suggested five movies for a user to watch depending on their input of their other preferred movies
 
 The goals of our project were two-fold. First, we wished to visualize differences in the movie industry within and across diverse demographics. Second, we desired to create two algorithms from which the user can receive movie recommendations. In terms of our comparisons, we examined the 1) popularity of different genres 2) runtimes 3) the relationship between revenue and ratings, and 4) the frequency of keywords in movie titles and movie overviews over time. For providing the user movie recommendations, we wrote two algorithms. The first algorithm recommends movies based on the user’s desired genre, minimum movie rating, and release date. The second algorithm recommends movies based on the similarity of the user’s inputted movie. 
 
